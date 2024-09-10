@@ -1,0 +1,23 @@
+{
+  "name": "nigerian-banks",
+  "version": "1.0.0",
+  "description": "A package to retrieve basic details about Nigerian banks",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "John Damilola Ogungbure",
+  "license": "ISC",
+  "keywords": [
+    "Bank",
+    "Nigeria",
+    "Nigerian",
+    "Banks",
+    "bank code"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
+}
